@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook that demonstrates the classification
 
 ## Dataset
 
-The dataset used in this project is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. It consists of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features include various measurements related to the characteristics of cell nuclei. The dataset is available in the `data` folder.
+The dataset used in this project is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. It consists of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features include various measurements related to the characteristics of cell nuclei. The dataset is available in (https://query.data.world/s/tsceosr23236cbv6l63xscqoy7vrsn?dws=00000)
 
 ## Dependencies
 
